@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "82644158093",
+    "firebase_url": "https://sapiapp-d45ee.firebaseio.com",
+    "project_id": "sapiapp-d45ee",
+    "storage_bucket": "sapiapp-d45ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:82644158093:android:d4e6295fa9297b94",
+        "android_client_info": {
+          "package_name": "com.example.sayhello.sapiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "82644158093-00gibg20rubnf3gldkdmdgntjksslff6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sayhello.sapiapp",
+            "certificate_hash": "3785b87406765bae10ca7a9a124955f75b786e91"
+          }
+        },
+        {
+          "client_id": "82644158093-8icm02q7e42tkvk4rr7cjqmdavf2ckrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFNkHjArSA_bJJXhadfJddyKy8vjJcyM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "82644158093-8icm02q7e42tkvk4rr7cjqmdavf2ckrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
